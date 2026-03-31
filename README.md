@@ -32,7 +32,7 @@ It is up to you to figure out the math behind converting time into radians for t
 * The goal is to bounce a ball inside the second canvas
 * Find out how to draw a circle on the second canvas and test your code
 * Then how to redraw the circle in a new position - you can either erase the ball, or clear the whole canvase and redraw.
-* Design an Ball object that contains all the information needed to draw an instance of a ball.  
+* Design a Ball object that contains all the information needed to draw an instance of a ball. You can call it a 'sprite' if you like, but circles are easier to handle collisions 
 * Later you will be creating an array of ball objects, each with its independent x,y velocity.
 
 
